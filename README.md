@@ -50,6 +50,3 @@ Em caso de resposta inválida:
 ```
 A API não retornou um conselho válido.
 ```
-## Licença
-
-Defina a licença do seu projeto aqui (ex: MIT, Apache 2.0, etc).
